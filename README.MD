@@ -20,6 +20,15 @@ Maven — зачем? https://habr.com/post/78252/
 Часть 7 http://study-and-dev.com/blog/build_management_maven_7/
 Часть 8 http://study-and-dev.com/blog/build_management_maven_8/
 
+Maven. Как освоить. По каким материалам изучать. https://javatalks.ru/topics/52286
+Собеседование по Мавен https://jsehelper.blogspot.com/2016/05/maven-1.html
+
 
 -----JDBC-----
 http://java-online.ru/jdbc-example.xhtml
+
+
+
+------SQL-----
+10 потенциальных SQL ошибок, которые делают программисты
+https://habr.com/post/208264/
