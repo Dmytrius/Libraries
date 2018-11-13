@@ -37,6 +37,22 @@ Maven — зачем? https://habr.com/post/78252/
 -----JDBC-----
 http://java-online.ru/jdbc-example.xhtml
 
+Create a simple HTTP Web Server in Java
+https://medium.com/@ssaurel/create-a-simple-http-web-server-in-java-3fc12b29d5fd
+
+Основы JAX-RS
+https://habr.com/post/140181/
+Реактивное программирование с JAX-RS
+https://habr.com/company/otus/blog/424031/
+
+Проектирование API на Java. Разработка приложений, построенных на базе SOA, с использованием технологий JAX-WS и JAX-RS
+https://habr.com/company/otus/blog/342956/
+
+Безопасность OAuth2
+https://habr.com/post/150756/
+https://oauth.net/
+https://www.digitalocean.com/community/tutorials/oauth-2-ru
+
 
 
 ------SQL-----
