@@ -72,7 +72,11 @@ http://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D
 http://javastudy.ru/
 JBOSS 4.2.3 Manual  https://habr.com/post/241804/#2
 
-
+Docker weblogic https://github.com/oracle/docker-images
+http://www.oracle.com/us/products/middleware/cloud-app-foundation/weblogic/weblogic-server-on-docker-wp-2742665.pdf
+https://www.oracle.com/ru/middleware/weblogic/resources.html#downloads
+Getting Started With WebLogic Web Services Using JAX-WS
+https://docs.oracle.com/cd/E12840_01/wls/docs103/webserv/index.html
 
 
 ------Docker------
