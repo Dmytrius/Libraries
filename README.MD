@@ -71,6 +71,13 @@ http://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D
 ------WEBservices------
 http://javastudy.ru/
 JBOSS 4.2.3 Manual  https://habr.com/post/241804/#2
+Создаем Веб Сервисы на платформе Oracle WebLogic Server, тестируем с SoapUI
+https://habr.com/post/111486/
+Прозрачная авторизация для приложения на Oracle Weblogic Server
+https://habr.com/post/414939/
+Oracle WebLogic Server (WLS) 12cR2 (12.2.1) Installation on Oracle Linux 6 and 7
+https://oracle-base.com/articles/12c/weblogic-installation-on-oracle-linux-6-and-7-1221
+
 
 Docker weblogic https://github.com/oracle/docker-images
 http://www.oracle.com/us/products/middleware/cloud-app-foundation/weblogic/weblogic-server-on-docker-wp-2742665.pdf
@@ -80,6 +87,9 @@ https://docs.oracle.com/cd/E12840_01/wls/docs103/webserv/index.html
 
 
 ------Docker------
+Лабораторная работа: введение в Docker с нуля. Ваш первый микросервис
+https://habr.com/post/346634/
+
 Погружаемся в Docker: Dockerfile и коммуникация между контейнерами
 https://habr.com/company/infobox/blog/240623/
 Полное практическое руководство по Docker: с нуля до кластера на AWS
